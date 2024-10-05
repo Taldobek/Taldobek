@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-costaalencar
+- 👋 Hi, I’m @Taldobek
 - 👀 I’m interested in games, voleiball and football.
 - 🌱 I’m currently learning python and banco de dados
 - 💞️ I’m looking to collaborate on
